@@ -230,7 +230,7 @@ streamlit run app.py
 
 # 👨‍💻 Developed By
 
-**Debasish Dey**
+**Shreyansh Kumar**
 
 B.Tech Artificial Intelligence & Machine Learning
 
@@ -238,6 +238,4 @@ Techno International New Town
 
 ---
 
-# 📄 License
 
-This project is licensed under the MIT License.
